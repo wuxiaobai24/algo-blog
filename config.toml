@@ -1,5 +1,5 @@
 baseURL = "https://algo.codeand.fun"
-title = "Algo & Fun"
+title = "Algo & Code"
 theme = "hugo-notepadium"
 copyright = "©2020 wuxiaobai24."
 
@@ -77,6 +77,6 @@ url = "/tags/"
 #title = "About"
 #url = "/about/"
 
-[[params.nav.custiom]]
+[[params.nav.custom]]
 title = "Blog"
 url = "https://codeand.fun/"
