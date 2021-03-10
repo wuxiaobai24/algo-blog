@@ -1,2 +1,4 @@
+node_modules/
+themes/
 public/
-content/
+source/_posts/
